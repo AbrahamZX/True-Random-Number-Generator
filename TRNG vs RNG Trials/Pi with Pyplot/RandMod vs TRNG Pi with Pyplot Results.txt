@@ -1,0 +1,4 @@
+Estimate of pi: 3.1407876
+Random module took 0.1905 seconds to generate RNG array.
+Estimate of pi: 3.16237075
+TRNG took 28.9615 seconds to generate RNG array.

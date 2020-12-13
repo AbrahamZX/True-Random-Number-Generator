@@ -1,0 +1,71 @@
+TRNG: Pi estimate using data points from image 1
+Estimate # 0 : 3.28
+Estimate # 1 : 3.36
+Estimate # 2 : 3.44
+Estimate # 3 : 3.46
+Estimate # 4 : 3.504
+
+TRNG: Pi estimate using data points from image 10
+Estimate # 0 : 3.68
+Estimate # 1 : 3.68
+Estimate # 2 : 3.7066666666666666
+Estimate # 3 : 3.7
+Estimate # 4 : 3.68
+
+TRNG: Pi estimate using data points from image 53
+Estimate # 0 : 3.84
+Estimate # 1 : 3.76
+Estimate # 2 : 3.8133333333333335
+Estimate # 3 : 3.78
+Estimate # 4 : 3.648
+
+TRNG: Pi estimate using data points from image 80
+Estimate # 0 : 3.44
+Estimate # 1 : 3.6
+Estimate # 2 : 3.6266666666666665
+Estimate # 3 : 3.64
+Estimate # 4 : 3.648
+
+TRNG: Pi estimate using data points from image 99
+Estimate # 0 : 3.76
+Estimate # 1 : 3.64
+Estimate # 2 : 3.6266666666666665
+Estimate # 3 : 3.64
+Estimate # 4 : 3.552
+
+PRNG: Pi estimate using called random
+Estimate # 0 : 3.12
+Estimate # 1 : 3.28
+Estimate # 2 : 3.2266666666666666
+Estimate # 3 : 3.16
+Estimate # 4 : 3.104
+
+PRNG: Pi estimate using called random
+Estimate # 0 : 3.12
+Estimate # 1 : 3.2
+Estimate # 2 : 2.933333333333333
+Estimate # 3 : 3.0
+Estimate # 4 : 2.976
+
+PRNG: Pi estimate using random module
+PRNG: Pi estimate using random module
+Estimate # 0 : 2.8
+Estimate # 1 : 2.92
+Estimate # 2 : 3.04
+Estimate # 3 : 3.14
+Estimate # 4 : 3.12
+
+PRNG: Pi estimate using random module
+PRNG: Pi estimate using random module
+Estimate # 0 : 3.12
+Estimate # 1 : 3.28
+Estimate # 2 : 3.3066666666666666
+Estimate # 3 : 3.32
+Estimate # 4 : 3.232
+
+PRNG: Pi estimate using random module
+Estimate # 0 : 3.04
+Estimate # 1 : 3.0
+Estimate # 2 : 3.04
+Estimate # 3 : 3.0
+Estimate # 4 : 3.04

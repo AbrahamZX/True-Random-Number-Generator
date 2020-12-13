@@ -1,0 +1,2 @@
+Random Module test of randomness took 341.4533 seconds.
+TRNG test of randomness took 841.4856 seconds.
